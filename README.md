@@ -7,6 +7,7 @@ This Flask application allows users to:
 - Store the output back in cloud storage
 
 ## Tech Stack
+- FastAPI
 - Flask
 - Python
 - PDF Processing (pdfplumber / OCR)
